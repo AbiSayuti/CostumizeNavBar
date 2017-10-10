@@ -36,6 +36,7 @@
 		AC03C02B1F8C80E200F0EEB0 /* Costumer Nav barTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Costumer Nav barTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC03C02F1F8C80E200F0EEB0 /* Costumer_Nav_barTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Costumer_Nav_barTests.swift; sourceTree = "<group>"; };
 		AC03C0311F8C80E200F0EEB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC03C03A1F8C85B700F0EEB0 /* ABIword02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ABIword02.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		AC03C0191F8C80E200F0EEB0 /* Costumer Nav bar */ = {
 			isa = PBXGroup;
 			children = (
+				AC03C03A1F8C85B700F0EEB0 /* ABIword02.jpg */,
 				AC03C01A1F8C80E200F0EEB0 /* AppDelegate.swift */,
 				AC03C01C1F8C80E200F0EEB0 /* ViewController.swift */,
 				AC03C01E1F8C80E200F0EEB0 /* Main.storyboard */,
